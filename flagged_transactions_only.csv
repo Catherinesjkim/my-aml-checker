@@ -1,0 +1,6 @@
+transaction_id,amount,location,transaction_time,is_fraud,flag_for_review
+TIDTEST1,15000.0,San Jose,2025-05-31 15:44:48.683775,0,True
+TIDTEST2,20000.0,San Jose,2025-06-20 07:00:29.683775,0,True
+TIDTEST3,18000.0,San Jose,2025-06-02 06:05:12.683775,0,True
+TIDTEST4,25000.0,Houston,2025-06-14 18:04:22.683775,0,True
+TIDTEST5,30000.0,Phoenix,2025-06-10 14:47:03.683775,0,True
